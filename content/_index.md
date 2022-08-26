@@ -5,7 +5,7 @@ action_type: text
 description: "I am a biological anthropologist working across bioarchaeology, forensic anthropology, and evolutionary anthropology. <br><br> My research program is focused on children and their growth, developmental, and health outcomes. I am very interested in variation, how it arises, and its links to socioecology, particularly socioeconomic inequality and psychosocial stress."
 image_left: true
 images:
-  - /street-crop.jpg
+  - img/street-crop.jpg
 show_action_link: true
 show_social_links: true
 subtitle: Assistant Professor, Binghamton University
