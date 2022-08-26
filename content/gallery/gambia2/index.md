@@ -9,7 +9,7 @@ layout: single
 tags:
 - hugo-site
 ---
-![Field assistant interviewing a participant](anthrop-featured.jpg)
+![Field assistant interviewing a participant](interview-featured.JPG)
 
 ---
 
