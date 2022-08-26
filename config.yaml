@@ -1,7 +1,7 @@
-baseURL: /
+baseURL: "https://laurespake.netlify.app/""
 theme: hugo-apero
 languageCode: en
-title: Personal Website
+title: 
 author: Laure Spake
 copyright: ''
 googleAnalytics: ''
@@ -46,7 +46,7 @@ params:
   navallcaps: yes
   orgLocal: Anywhere
   orgName: RStudio
-  sharing_image: /img/papillons.jpg
+  sharing_image: /img/street-crop.jpg
   social:
     - icon: github
       icon_pack: fab
