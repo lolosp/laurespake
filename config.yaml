@@ -1,4 +1,4 @@
-baseURL: "https://laurespake.netlify.app/"
+baseURL: https://laurespake.netlify.app/
 theme: hugo-apero
 languageCode: en
 title: 
