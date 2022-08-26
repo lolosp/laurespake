@@ -60,6 +60,9 @@ params:
     - icon: researchgate
       icon_pack: fab
       url: https:/researchgate.net/profile/Laure-Spake
+    - icon: osf
+      icon_pack: fab
+      url: https://osf.io/z7hcm/
   socialInFooter: yes
   socialInHeader: no
   textFontFamily: sans-serif
