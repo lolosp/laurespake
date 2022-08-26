@@ -7,9 +7,9 @@ number_categories: 2 # set to zero to exclude
 show_intro: true
 intro: |
   
-  Welcome! I am a biological anthropologist studying children from multiple perspectives. I am interested primarily in variation in child outcomes, particularly physical growth and development, and understanding how these arise I have worked with multiple types of data including: dry bones, CT scans, historical records, surveys, focus group discussions, and more. I am currently expanding my portfolio to include immune and endocrine biomarkers.
+  Welcome! I am a biological anthropologist studying children. I am interested primarily in understanding how variation in child outcomes arises, particularly in physical growth and development. I have worked with multiple types of data including: dry bones, CT scans, historical records, surveys, focus group discussions, and more. I am currently expanding my portfolio to include immune and endocrine biomarkers.
   <br><br>
-  I am a trained osteologist and forensic anthropologist, specializing in juvenile osteology. As a forensic anthropologist, I have worked for the BC Coroner's Service and the Royal Canadian Mounted police both in the field and in the lab. 
+  My training is as an osteologist and forensic anthropologist, specializing in juvenile osteology. As a forensic anthropologist, I have worked for the BC Coroner's Service and the Royal Canadian Mounted police both in the field and in the lab.
   <br><br>
   More recently, I have been working from evolutionary perspectives with the [Evolutionary Demography of Religion project](https://www.evolutionarydemographyofreligion.org/). As part of this project, I led fieldwork in collaboration with the KWDSS and MRC in the Gambia, where I continue to maintain scientific collaborations.
   <br><br>
