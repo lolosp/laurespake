@@ -1,17 +1,26 @@
 ---
 ## Configure page content in wide column
-title: "Why apéro?" # leave blank to exclude
-number_featured: 1 # pulling from mainSections in config.toml
-use_featured: false # if false, use most recent by date
-number_categories: 3 # set to zero to exclude
+title: "About me" # leave blank to exclude
+number_featured: 2 # pulling from mainSections in config.toml
+use_featured: true # if false, use most recent by date
+number_categories: 2 # set to zero to exclude
 show_intro: true
 intro: |
-  Apéro is a unique kind of casual get-together in French culture, when you gather with friends and get to know each other better over some apéritifs, snacks, and anything in between. A good apéro is one where you'd happily spend a few hours just hanging out.
   
-  I hope this theme helps you create your own virtual apéro. A place where you and your site's visitors enjoy spending time, and one that helps folks get to know you better. 
-show_outro: true
+  Welcome! I am a biological anthropologist studying children from multiple perspectives. I am interested primarily in variation in child outcomes, particularly physical growth and development, and understanding how these arise I have worked with multiple types of data including: dry bones, CT scans, historical records, surveys, focus group discussions, and more. I am currently expanding my portfolio to include immune and endocrine biomarkers.
+  <br><br>
+  I am a trained osteologist and forensic anthropologist, specializing in juvenile osteology. As a forensic anthropologist, I have worked for the BC Coroner's Service and the Royal Canadian Mounted police both in the field and in the lab. 
+  <br><br>
+  More recently, I have been working from evolutionary perspectives with the [Evolutionary Demography of Religion project](https://www.evolutionarydemographyofreligion.org/). As part of this project, I led fieldwork in collaboration with the KWDSS and MRC in the Gambia, where I continue to maintain scientific collaborations.
+  <br><br>
+  My research practice adheres to Open Science principles wherever possible. I am passionate about using and teaching R for data processing and statistical analysis. Currently, I co-organize [Rchaeology](https://rchaeology.github.io/about/), an online community uniting R-using archaeologists from around the world. At Binghamton, I am affiliated with the [Data Science TAE](https://www.binghamton.edu/transdisciplinary-areas-of-excellence/data-science/index.html).
+  <br><br>
+  In my free time, I am an avid trail runner, climber, and all around outdoors enthusiast. I also love spending time with Oreo, my cuddly black lab.
+  <br><br>
+  I am admitting students during the 2022-2023 admissions cycle. Check out the "our lab" section to learn more about what we do, and if you are interested in joining, please send me an e-mail to discuss potential research synergies. 
+show_outro: false
 outro: |
-  <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!
+  <i class="fas fa-glass-cheers pr2"></i>I am admitting students during the 2022-2023 application cycle. Check out the "our lab" section to learn more about us.
 ---
 
 ** index doesn't contain a body, just front matter above.

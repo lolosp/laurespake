@@ -39,6 +39,7 @@ params:
   logo: /img/blogophonic-mark-dark.png
   mainSections:
     - blog
+    - gallery
     - project
     - talk
   math:
