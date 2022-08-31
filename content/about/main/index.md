@@ -1,13 +1,13 @@
 ---
 ## Configure page content in wide column
 title: "About me" # leave blank to exclude
-number_featured: 2 # pulling from mainSections in config.toml
+number_featured: 0 # pulling from mainSections in config.toml
 use_featured: true # if false, use most recent by date
-number_categories: 2 # set to zero to exclude
+number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
   
-  Welcome! I am a biological anthropologist studying children. I am interested primarily in understanding how variation in child outcomes arises, particularly in physical growth and development. I have worked with multiple types of data including: dry bones, CT scans, historical records, surveys, focus group discussions, and more. I am currently expanding my portfolio to include immune and endocrine biomarkers.
+  Welcome! I am a biological anthropologist studying children. I am primarily interested in understanding how variation in child outcomes arises, particularly in physical growth and development. Beyond this focus, my research program also covers broader topics across forensic anthropology, evolutionary anthropology, and ethical practices in anthropology. I have worked with diverse types of data including: dry bones, CT scans, historical records, surveys, focus group discussions, and more. Currently, I am  expanding my portfolio to include immune and endocrine biomarkers.
   <br><br>
   My training is as an osteologist and forensic anthropologist, specializing in juvenile osteology. As a forensic anthropologist, I have worked for the BC Coroner's Service and the Royal Canadian Mounted police both in the field and in the lab.
   <br><br>

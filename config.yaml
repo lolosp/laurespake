@@ -41,7 +41,7 @@ params:
     - blog
     - gallery
     - project
-    - talk
+    - pub
   math:
     renderer: katex
   navallcaps: yes
@@ -108,7 +108,7 @@ menu:
       weight: 3
     - name: Publications
       title: See our publications
-      url: /talk/
+      url: /pub/
       weight: 4
     - name: Gallery
       title: Glimpses into our work
