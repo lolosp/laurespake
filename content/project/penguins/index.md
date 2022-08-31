@@ -7,7 +7,7 @@ categories:
 date: "2019-07-02"
 draft: false
 excerpt: "Field assistant taking anthropometrics as children watch on, The Gambia"
-featured: true
+featured: false
 layout: single
 links:
 - icon: door-open

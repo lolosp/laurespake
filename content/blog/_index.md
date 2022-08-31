@@ -18,13 +18,13 @@ show_post_date: true
 show_post_thumbnail: true
 sidebar:
   author: Laure Spake
-  description: "Our work takes us around the world for data collection. We also have a dedicated computing space in Science 1. Our work is generally grounded in "
+  description: "Meet our team members! Click on each headline to learn a bit about each member and their research interests"
   show_sidebar_adunit: true
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml
-  title: About the lab
+  title: Meet our lab members
 thumbnail_left: true
-title: A Blog That Works
+title: Lab member bios
 ---
 
 ** No content below YAML for the blog _index. This file provides front matter for the listing page layout and sidebar content. It is also a branch bundle, and all settings under `cascade` provide front matter for all pages inside blog/. You may still override any of these by changing them in a page's front matter.**
