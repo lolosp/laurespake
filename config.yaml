@@ -41,6 +41,7 @@ params:
     - blog
     - gallery
     - project
+    - talk
     - pub
   math:
     renderer: katex
