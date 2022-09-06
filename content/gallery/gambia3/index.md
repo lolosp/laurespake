@@ -10,7 +10,7 @@ layout: single
 tags:
 - hugo-site
 ---
-![Laure and Jainaba with a participant in the women's gardens](interview-featured.JPG)
+![Laure and Jainaba with a participant in the gardens](consent-featured.jpg)
 
 ---
 
