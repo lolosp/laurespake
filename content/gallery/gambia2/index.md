@@ -4,7 +4,7 @@ categories:
 - The Gambia
 date: "2021-11-01"
 draft: false
-excerpt: Field assistant interviewing a participant, the Gambia
+excerpt: Tumbulu interviewing a participant, the Gambia
 layout: single
 tags:
 - hugo-site

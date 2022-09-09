@@ -4,7 +4,7 @@ categories:
 - The Gambia
 date: "2022-03-04"
 draft: false
-excerpt: Field assistant takes anthropometrics as children watch on, the Gambia
+excerpt: Alieu takes anthropometrics as children watch on, the Gambia
 layout: single
 tags:
 - hugo-site
