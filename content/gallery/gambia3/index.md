@@ -2,7 +2,6 @@
 author: Laure Spake
 categories:
 - The Gambia
-- EvoDemRelig
 date: "2022-03-15"
 draft: false
 excerpt: Laure and Jainaba visiting with a participant in the women's garden
