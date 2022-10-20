@@ -2,7 +2,7 @@
 ## Configure page content in wide column
 title: "About me" # leave blank to exclude
 number_featured: 0 # pulling from mainSections in config.toml
-use_featured: true # if false, use most recent by date
+use_featured: false # if false, use most recent by date
 number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
@@ -16,8 +16,6 @@ intro: |
   My research practice adheres to Open Science principles wherever possible. I am passionate about using and teaching R for data processing and statistical analysis. Currently, I co-organize [Rchaeology](https://rchaeology.github.io/about/), an online community uniting R-using archaeologists from around the world. At Binghamton, I am affiliated with the [Data Science TAE](https://www.binghamton.edu/transdisciplinary-areas-of-excellence/data-science/index.html).
   <br><br>
   In my free time, I am an avid trail runner, climber, and all around outdoors enthusiast. I also love spending time with Oreo, my cuddly black lab.
-  <br><br>
-  I am admitting students during the 2022-2023 admissions cycle. Check out the "our lab" section to learn more about what we do, and if you are interested in joining, please send me an e-mail to discuss potential research synergies. 
 show_outro: false
 outro: |
   <i class="fas fa-glass-cheers pr2"></i>I am admitting students during the 2022-2023 application cycle. Check out the "our lab" section to learn more about us.
