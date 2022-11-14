@@ -99,7 +99,7 @@ menu:
       title: About Laure
       url: /about/
       weight: 1
-    - name: Our Lab
+    - name: The Lab
       title: About the lab and our team
       url: /lab/
       weight: 2

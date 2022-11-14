@@ -3,7 +3,7 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  About our lab and our team
+  About the lab and our team
 ---
 
 <!-- this is a subheadline -->
