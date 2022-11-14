@@ -20,7 +20,7 @@ I work on the following topics:
 + Alloparenting and its impacts on child outcomes (evolutionary anthropology, biological anthropology)
 + Inter-and intra-population variation in growth (biological anthropology, bioarchaeology)
 
-I really enjoy integrating computational methods in my work and am always seeking to learn new data science methods. 
+I enjoy integrating computational methods in my work and am always seeking to learn new data science methods. 
 
 I have collected data in Australia, across Europe, the US and in the Gambia. 
 
