@@ -26,7 +26,7 @@ Goal: The purpose of this project is to develop and test methods for estimating 
 
 Data for these studies include: skeletal data from CT scans of children from the US; skeletal measurements and dental x-rays from identified skeletal collections across the Europe and the US. 
 
-![Illustration of z-score trajectories showing children dying natural deaths tend to be smaller for age than children dying of accidents](featured.png)
+![Illustration measurement of the distal femoral metaphysis in a CT scan](featured.jpg)
 
 ### Project status
 
