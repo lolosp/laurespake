@@ -29,6 +29,11 @@ Goal: In post-industrial societies, the number of children in a family is negati
 The project is funded by the John Templeton Foundation and the Templeton Religion Trust, grants awarded to project PIs: John Shaver, Richard Sosis, Rebecca Sear, and Mary Shenk.
 
 
+### Project status
+
+The first round of data collection for this project is complete. Currently, we are designing a second round of data collection in the Gambia, in which we will re-visit a subset of participants and their children. 
+
+
 ### Publications from this project
 
 Schaffnit SB, Lynch R, Spake L, Sear R, Sosis R, Shaver J, Alam N, Blumenfield T, Mattison S, Shenk M. In press. The impact of market integration on arranged and love marriages in Matlab, Bangladesh. Evolutionary Human Sciences.

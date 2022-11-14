@@ -6,7 +6,7 @@ categories:
 - biological profile
 - method development
 date: "2016-09-01"
-draft: true
+draft: false
 excerpt: The purpose of this project is to develop and test methods for estimating various parameters of the juvenile biological profile for use in both bioarchaeological and forensic contexts
 layout: single
 links:
