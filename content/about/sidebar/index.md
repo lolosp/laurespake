@@ -8,7 +8,9 @@ audio_link_label:  # leave blank to exclude
 link_list_label: "Elsewhere" # bookmarks, elsewhere, etc.
 link_list:
 - name: "Department page"
-  url: https://chss.wwu.edu/anthropology/spakel
+  url: https://www.binghamton.edu/anthropology/faculty/profile.html?id=lspake
+- name: "EvoDemReligion page"
+  url: https://evolutionarydemographyofreligion.org/
 
 ---
 
