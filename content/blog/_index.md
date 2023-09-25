@@ -3,7 +3,7 @@ author: Laure Spake
 cascade:
   author: Laure Spake
   show_author_byline: true
-  show_comments: true
+  show_comments: false
   show_post_date: true
   sidebar:
     show_sidebar_adunit: false
@@ -14,13 +14,12 @@ description: "This is a fully featured blog that supports categories, \ntags, se
 layout: list-sidebar
 show_author_byline: true
 show_button_links: false
-show_post_date: true
+show_post_date: false
 show_post_thumbnail: true
 sidebar:
-  author: Laure Spake
   description: "Meet our team members! Click on each headline to learn a bit about each member and their research interests"
-  show_sidebar_adunit: true
-  text_link_label: Subscribe via RSS
+  show_sidebar_adunit: false
+  text_link_label: 
   text_link_url: /index.xml
   title: Meet our lab members
 thumbnail_left: true

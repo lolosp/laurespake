@@ -8,7 +8,7 @@ featured: true
 excerpt: Laure leads the lab  
 layout: single
 subtitle: Assistant Professor, Biological anthropologist, lab PI
-title: Meet Laure
+title: Laure Spake
 ---
 
 ## My work 
@@ -22,7 +22,7 @@ I work on the following topics:
 
 I enjoy integrating computational methods in my work and am always seeking to learn new data science methods. 
 
-I have collected data in Australia, across Europe, the US and in the Gambia. 
+I have collected data in Australia, across Europe, the US and in The Gambia. 
 
 ![Checking out the salt flats outside of Keneba, the Gambia](DSC01666.jpg)
 
