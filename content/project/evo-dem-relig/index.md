@@ -31,12 +31,21 @@ The project is funded by the John Templeton Foundation and the Templeton Religio
 
 ### Project status
 
-The first round of data collection for this project is complete. Currently, we are designing a second round of data collection in the Gambia, in which we will re-visit a subset of participants and their children. 
+The first round of data collection for this project is complete. Currently, we are designing a second round of data collection in the Gambia, in which we will re-visit a subset of participants and their children. Several lab members are actively contributing to data analysis from this project.
 
 
 ### Publications from this project
 
-Schaffnit SB, Lynch R, Spake L, Sear R, Sosis R, Shaver J, Alam N, Blumenfield T, Mattison S, Shenk M. In press. The impact of market integration on arranged and love marriages in Matlab, Bangladesh. Evolutionary Human Sciences.
+Schaffnit SB, Lynch R, Spake L, Sear R, Sosis R, Shaver J, Alam N, Blumenfield T, Mattison S, Shenk M. 2023. The impact of market integration on arranged and love marriages in Matlab, Bangladesh. Evolutionary Human Sciences 5:e5. DOI: [10.1017/ehs.2022.54](https://doi.org/10.1017/ehs.2022.54).
 
 Spake L, Schaffnit SB, Sear R, Shenk M, Sosis R, Shaver JH. 2021. Mothers’ partnership status and allomothering networks in the United Kingdom and United States. Social Sciences 10:182. DOI: [10.3390/socsci10050182](https://doi.org/10.3390/socsci10050182). 
+
+
+### Selected conference presentations from this project
+
+Hassan A, Sear R, Spake L, Schaffnit S, Chvaja R, Shaver J, & The Evolutionary Demography of Religion Team. 2023. Allomothering networks in cross-cultural perspective: who helps mothers and what do they help with? BSPS, Keele, UK.
+
+Spake L, Hassan A, Badjie J, Sear R, Shenk MK, Sosis R, Shaver JH. 2022. Provisioning, but not other types of allomothering, may promote healthy growth in children. AAA, Seattle.
+
+
 

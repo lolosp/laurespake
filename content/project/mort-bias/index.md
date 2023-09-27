@@ -45,7 +45,9 @@ Spake L, Blau S, Cardoso HFV. 2021. The impact of forensic mortality bias in juv
 
 Spake L, Hoppa RD, Blau S, Cardoso HFV. 2021. Lack of biological mortality bias in the timing of dental formation in contemporary children: implications for the study of past populations. American Journal of Physical Anthropology 174:646-660. DOI: [10.1002/ajpa.24218](https://doi.org/10.1002/ajpa.24218). 
 
-Spake L, Cardoso HFV. Indirect evidence for biological mortality bias from two temporo-spatially distant samples of children. Anthropologischer Anzeiger 76:379.390. DOI: [10.1127/anthranz/2019/0957](https://doi.org/10.1127/anthranz/2019/0957).
+Spake L, Cardoso HFV. 2021. Interpolation of the Maresh diaphyseal length data for use in quantitative analyses of growth. International Journal of Osteoarchaeology 31:232-242. DOI: [10.1002/oa.2942](https://doi.org/10.1002/oa.2942). <br>
+*Note: I have made available a tool associated with this paper which aids in the calculation of z-scores. Download the RScript and instructions for running it on the project [OSF page](https://osf.io/c2x7k/). No R background needed.*
 
+Spake L, Cardoso HFV. 2019 Indirect evidence for biological mortality bias from two temporo-spatially distant samples of children. Anthropologischer Anzeiger 76:379.390. DOI: [10.1127/anthranz/2019/0957](https://doi.org/10.1127/anthranz/2019/0957).
 
 Spake L. 2020. Using anthropometrics and dental formation stages of contemporary children to investigate the impact of biological mortality bias on interpretations of past population health. PhD Dissertation, Simon Fraser University. [Available online](https://summit.sfu.ca/item/20525).
