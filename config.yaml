@@ -111,6 +111,9 @@ menu:
       title: See our publications
       url: /pub/
       weight: 4
+    - name: Teaching
+      title: Materials for courses taught
+      url: /course/
     - name: Gallery
       title: Glimpses into our work
       url: /gallery/
