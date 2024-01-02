@@ -25,7 +25,7 @@ The syllabus is available [here](https://drive.google.com/file/d/141g0TR4-SvpVY6
 
 ## Assignments
 
-The bulk of the work for the course consisted of short (300-500 word) written assignments that students completed throughout the semester. The prompts asked students to do things like: deeply read three articles to analyse how much topical and/or citational overlap there was between them; watch short ethnographic films and reflect on cross-cultural variation in parenting; design a school for 6-10 year olds that they think would be best to prepare North American children; perform a material culture survey of two neighbourhoods to interpret the role of children in each setting; reflect on social and legal adulthood in the USA. I am not yet fully satisfied with the assignments and will be modifying them, so these are not yet shared.
+The bulk of the work for the course consisted of short (300-500 word) written assignments that students completed throughout the semester. The prompts asked students to do things like: deeply read three articles to analyse how much topical and/or citational overlap there was between them; watch short ethnographic films and reflect on cross-cultural variation in parenting; design a school for 6-10 year olds that they think would be best to prepare North American children; perform a material culture survey of two neighbourhoods to interpret the role of children in each setting; reflect on social and legal adulthood in the USA. 
 
 --- 
 
