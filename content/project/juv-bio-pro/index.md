@@ -34,6 +34,8 @@ Work on this topic is ongoing. Data has largely been collected, although there a
 
 ### Publications from this project
 
+Murray NJ, Spake L, Cervantes M, Albanese J, Cardoso HFV. 2024. New More Generic and Inclusive Regression Formulae for the Estimation of Stature from Long Bone Lengths in Children. Forensic Sciences 4(1):62-75. DOI:[https://doi.org/10.3390/forensicsci4010005](https://doi.org/10.3390/forensicsci4010005)
+
 Spake L, Meyers J, Cardoso HFV. 2021. Juvenile body mass estimation from the femur using postmortem computed tomography data. Human Biology 93(2):4.[Pre-print](https://digitalcommons.wayne.edu/humbiol_preprints/188).
 
 Lamer M, Spake L, Cardoso HFV. 2021 Testing methods for juvenile sex estimation using long bone metaphyseal and diaphyseal measurements. Forensic Science International 321:110739. DOI: [10.1016/j.forsciint.2021.110739](https://doi.org/10.1016/j.forsciint.2021.110739).
