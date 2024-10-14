@@ -2,7 +2,7 @@
 author: 
 categories:
 - Lab Members
-date: "2023-09-04"
+date: "2023-09-05"
 draft: false
 featured: true
 excerpt: Biannet is a graduate student in the lab working on humanitarian forensics

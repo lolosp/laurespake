@@ -2,7 +2,7 @@
 author: 
 categories:
 - Lab Members
-date: "2023-09-03"
+date: "2023-09-04"
 draft: false
 featured: true
 excerpt: Kailee is a graduate student in the lab working on trade-offs in growth and development

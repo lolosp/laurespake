@@ -2,7 +2,7 @@
 author: 
 categories:
 - Lab Members
-date: "2023-09-01"
+date: "2023-09-02"
 draft: false
 featured: true
 excerpt: Inijesu is a medical doctor and an MPH student interested in maternal and child health, health literacy, and public health messaging

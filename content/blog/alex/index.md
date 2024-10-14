@@ -2,7 +2,7 @@
 author: 
 categories:
 - Lab Members
-date: "2023-09-05"
+date: "2023-09-06"
 draft: false
 featured: true
 excerpt: Alex is a graduate student in the lab working on gunshot wounds in tubular bones

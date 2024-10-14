@@ -2,7 +2,7 @@
 author: 
 categories:
 - Lab Members
-date: "2023-09-02"
+date: "2023-09-03"
 draft: false
 featured: true
 excerpt: Cai is a graduate research assistant in the lab, helping with data management and analysis across ongoing projects
