@@ -24,7 +24,7 @@ If you'd like to learn more about me and my work, please check out the resources
 
 <br>
 
-![](featured.jpg)
+![](full-image.jpeg)
 
 
 
